@@ -84,8 +84,8 @@ window.onload = function () {
 
 			const fields = document.querySelector('.rock');
 
-			const forFieldsX = 10;
-			const forFieldsY = 10;
+			const forFieldsX = 5;
+			const forFieldsY = 100;
 
 			const speed = 0.4;
 
@@ -125,8 +125,8 @@ window.addEventListener('load', function () {
 
 			const fields = document.querySelector('.scissors');
 
-			const forFieldsX = 10;
-			const forFieldsY = 10;
+			const forFieldsX = 5;
+			const forFieldsY = 100;
 
 			const speed = 0.4;
 
@@ -166,8 +166,8 @@ window.addEventListener('load', function () {
 
 			const fields = document.querySelector('.paper');
 
-			const forFieldsX = 10;
-			const forFieldsY = 10;
+			const forFieldsX = 5;
+			const forFieldsY = 100;
 
 			const speed = 0.4;
 
